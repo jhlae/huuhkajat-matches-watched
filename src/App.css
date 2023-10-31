@@ -1,0 +1,37 @@
+body {
+  background: #fff;
+  color: #000;
+}
+
+#root {
+  margin: 5em;
+  background: #fff;
+}
+
+h3 {
+  font-size: 2em !important;
+}
+
+span {
+  position: relative;
+  display: inline-block;
+  margin-right: 0.5em;
+}
+
+sub {
+  position: absolute;
+  right: -4px;
+  bottom: 0px;
+  font-size: 0.6em;
+}
+
+/* table */
+.ant-table {
+  font-size: 15px !important;
+  margin-top: 2em !important;
+}
+
+.ant-radio-button-wrapper-checked {
+  background: blue !important;
+  color: #fff !important;
+}
